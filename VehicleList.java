@@ -1,9 +1,21 @@
-package application;
+/*
+Created by Sondra Hoffman
+Date: 12/01/2019
+CSC372 - Programming II 
+Colorado State University - Global Campus
 
-public class VehicleList {
+Purpose: A class to represent the vehicle list. 
 
-	public VehicleList() {
-		// TODO Auto-generated constructor stub
-	}
+*/
 
+import java.util.LinkedList;
+
+public class VehicleList extends LinkedList<Vehicle> {
+
+    public VehicleList() {
+        super();
+    }
+
+    // Add additional methods for managing the vehicle list
+    // ...
 }
