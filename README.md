@@ -16,7 +16,7 @@ To run the Vehicle Management Program, follow these steps:
 
 1. Clone the repository or download the source code.
 2. Open the project in your preferred Java IDE.
-3. Compile and run the `Vehicle_Test` class.
+3. Compile and run the `VehicleTest` class.
 
 ## Usage
 
